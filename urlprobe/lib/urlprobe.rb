@@ -17,7 +17,6 @@ class UrlProbe
                 @run = false
             else
                 puts "supply 3 arguments or type 'stop' to exit"
-                @run = false
             end
         end
     end
